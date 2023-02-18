@@ -51,10 +51,10 @@
 */
 
   /* Avatars - Default value : 5px */
-  --avatar-radius: 5px;
+  --avatar-radius: 25px;
 
   /* Status - Default value : 3px */
-  --status-radius: 3px;
+  --status-radius: 25px;
 
   /* Servers - Default value : 8px */
   --server-radius: 8px;
